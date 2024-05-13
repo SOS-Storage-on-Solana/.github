@@ -48,3 +48,16 @@ Click on the "Connect Wallet" button and select your Solana wallet to connect to
     Uploaded files will be listed in your dashboard.
     Click on a file to view its details or download it.
     Use the "Share" button to generate a secure link for sharing the file.
+
+   Contributing
+
+Contributions are welcome! To contribute, please follow these steps:
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Commit your changes (git commit -am 'Add new feature').
+    Push to the branch (git push origin feature-branch).
+    Create a new Pull Request.
+
+
+Thank you for using Storage on Solana! 
